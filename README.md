@@ -16,3 +16,5 @@ The app functions like any other music playing app. On the left side of the app 
 # How to add a song
 
 The music file needs to be a .mp3 file. First place the file in the ``assets\music`` folder and add "xx - " to the beginning of the files name. The xx part is the index of the song, simply take the index of the last song already in the folder and add 1. The you need to update the data.txt file in ``assets``, add a ne line on the format Filename;Name of the song;Name of the artist;Image filename (not necessary). Lastly you need to update the playlists.txt file, add the song index to the All Songs playlist and then to any other playlist you like or create a new playlist.  
+
+test
