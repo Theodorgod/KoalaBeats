@@ -3,7 +3,7 @@
 
 # Project description
 
-This project is a state of the art music app. You will be able to play songs, create playlists and shuffle them. You might also be able to search for your own songs. Spotify is a copy of our project and we will sue them.
+This project is a music app. You will be able to play songs, create playlists and shuffle them.
 
 # How to get started
 
